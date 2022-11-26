@@ -1,0 +1,5 @@
+numpy==1.23.3
+Pillow==9.3.0
+PyInstaller==5.6.2
+streamlit==1.11.0
+streamlit_cropper==0.2.0
